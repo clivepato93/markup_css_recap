@@ -7,3 +7,9 @@
 
 ```
     sometimes I forget the following &display=swap at the end
+
+useful link for colours 
+
+https://mdigi.tools/solid-color-image-generator/
+
+![](images/image-generator)
