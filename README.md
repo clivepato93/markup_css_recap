@@ -12,4 +12,4 @@ useful link for colours
 
 https://mdigi.tools/solid-color-image-generator/
 
-![](./images/image-generator)
+![](./images/image-generator.png)
